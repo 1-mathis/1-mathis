@@ -63,44 +63,31 @@ Développeur Full-Stack passionné, toujours prêt à relever de nouveaux défis
 
 ## 🔗 Me Suivre & Me Contacter
 
-<!-- Styles supplémentaires pour supprimer les underscores -->
-<style>
-  .contact-link {
-    text-decoration: none;
-    color: inherit;
-    display: inline-flex;
-    align-items: center;
-  }
-  .contact-link img {
-    margin-right: 10px;
-  }
-</style>
-
 <div style="display: flex; align-items: center; gap: 50px;">
 
   <!-- Lien pour envoyer un email directement avec ton adresse -->
-  <a href="mailto:contactmathis244@gmail.com" class="contact-link">
+  <a href="mailto:contactmathis244@gmail.com" style="text-decoration: none; color: inherit; display: inline-flex; align-items: center;">
     <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
   
   <!-- Lien vers ton profil LinkedIn -->
-  <a href="https://www.linkedin.com/in/mathis-ferreira/" class="contact-link">
+  <a href="https://www.linkedin.com/in/mathis-ferreira/" style="text-decoration: none; color: inherit; display: inline-flex; align-items: center;">
     <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   
   <!-- Lien vers ton profil Instagram -->
-  <a href="https://www.instagram.com/mths.ferr/" class="contact-link">
+  <a href="https://www.instagram.com/mths.ferr/" style="text-decoration: none; color: inherit; display: inline-flex; align-items: center;">
     <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
   
   <!-- Lien vers ton portfolio -->
-  <a href="https://tonportfolio.com" class="contact-link">
+  <a href="https://tonportfolio.com" style="text-decoration: none; color: inherit; display: inline-flex; align-items: center;">
     <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
   </a>
   
   <!-- Lien vers ton application Stéréo avec l'icône hébergée -->
-  <a href="https://tonapplicationstereo.com" class="contact-link">
-    <img src="https://github.com/1-mathis/1-mathis/blob/main/logo%20st%C3%A9r%C3%A9o.%20pour%20github.png?raw=true" alt="Stéréo" width="40" height="40">
+  <a href="https://tonapplicationstereo.com" style="text-decoration: none; color: inherit; display: inline-flex; align-items: center;">
+    <img src="https://github.com/1-mathis/1-mathis/blob/main/logo%20st%C3%A9r%C3%A9o.%20pour%20github.png?raw=true" alt="Stéréo" width="40" height="40" style="margin-right: 10px;">
     <span style="color: white; font-weight: bold; font-size: 16px;">Stéréo</span>
   </a>
 
