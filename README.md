@@ -63,22 +63,35 @@ Développeur Full-Stack passionné, toujours prêt à relever de nouveaux défis
 
 ## 🔗 Me Suivre & Me Contacter
 
-<div align="center">
+<div align="center" style="display: flex; justify-content: center; gap: 15px;">
+
   <!-- Lien pour envoyer un email directement avec ton adresse -->
-  <a href="mailto:contactmathis244@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="mailto:contactmathis244@gmail.com" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Email-333333?style=flat-square&logo=gmail&logoColor=white" alt="Email">
+  </a>
   
   <!-- Lien vers ton profil LinkedIn -->
-  <a href="https://www.linkedin.com/in/mathis-ferreira/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/mathis-ferreira/" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/LinkedIn-333333?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
   
   <!-- Lien vers ton profil Instagram -->
-  <a href="https://www.instagram.com/mths.ferr/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://www.instagram.com/mths.ferr/" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Instagram-333333?style=flat-square&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
   
   <!-- Lien vers ton portfolio -->
-  <a href="https://tonportfolio.com"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"></a>
+  <a href="https://tonportfolio.com" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Portfolio-333333?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio">
+  </a>
   
   <!-- Lien vers ton application Stéréo -->
-  <a href="https://tonapplicationstereo.com"><img src="https://img.shields.io/badge/Stéréo-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Stéréo"></a>
+  <a href="https://tonapplicationstereo.com" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Stéréo-333333?style=flat-square&logo=spotify&logoColor=white" alt="Stéréo">
+  </a>
+
 </div>
+
 
 
 ---
