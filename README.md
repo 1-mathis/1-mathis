@@ -85,11 +85,11 @@ Développeur Full-Stack passionné, toujours prêt à relever de nouveaux défis
     <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
   </a>
   
-  <!-- Lien vers ton application Stéréo -->
-  <a href="https://tonapplicationstereo.com" style="text-decoration: none; color: inherit; display: flex; align-items: center;">
-    <img src="https://raw.githubusercontent.com/TON_NOM_UTILISATEUR/NOM_DU_DEPOT/main/chemin/vers/ton-image.png" alt="Stéréo" width="40" height="40" style="margin-right: 10px;">
-    <span style="color: white; font-weight: bold; font-size: 16px;">Stéréo</span>
-  </a>
+<!-- Lien vers ton application Stéréo avec l'icône hébergée -->
+<a href="https://tonapplicationstereo.com" style="text-decoration: none; display: flex; align-items: center;">
+  <img src="https://raw.githubusercontent.com/1-mathis/1-mathis/main/chemin/vers/ton-image.png" alt="Stéréo" width="40" height="40" style="margin-right: 10px;">
+  <span style="color: white; font-weight: bold; font-size: 16px;">Stéréo</span>
+</a>
 
 </div>
 
