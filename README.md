@@ -42,19 +42,6 @@ Développeur Full-Stack passionné, toujours prêt à relever de nouveaux défis
 
 ## 💻 Projets Récents
 
-             __                                             
-            |  \                                            
-  _______  _| $$_     ______    ______    ______    ______  
- /       \|   $$ \   /      \  /      \  /      \  /      \ 
-|  $$$$$$$ \$$$$$$  |  $$$$$$\|  $$$$$$\|  $$$$$$\|  $$$$$$\
- \$$    \   | $$ __ | $$    $$| $$   \$$| $$    $$| $$  | $$
- _\$$$$$$\  | $$|  \| $$$$$$$$| $$      | $$$$$$$$| $$__/ $$
-|       $$   \$$  $$ \$$     \| $$       \$$     \ \$$    $$
- \$$$$$$$     \$$$$   \$$$$$$$ \$$        \$$$$$$$  \$$$$$$ 
-                                                            
-                                                            
-                                                            
-
 ### 🌐 **[Nom du Projet 1]**
 - **Description** : Une application qui permet [brève explication du projet].
 - **Technologies** : Vue.js, Vuex, Vuetify, API REST.
@@ -98,28 +85,11 @@ Développeur Full-Stack passionné, toujours prêt à relever de nouveaux défis
     <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
   </a>
   
-  <!-- Lien vers ton application Stéréo avec l'icône hébergée -->
-  <a href="https://tonapplicationstereo.com" style="text-decoration: none; color: inherit; display: inline-flex; align-items: center;">
-    <img src="https://github.com/1-mathis/1-mathis/blob/main/logo%20st%C3%A9r%C3%A9o.%20pour%20github.png?raw=true" alt="Stéréo" width="40" height="40" style="margin-right: 10px;">
-    <span style="color: white; font-weight: bold; font-size: 16px;">Stéréo
+  <!-- Badge personnalisé avec ton image -->
+  <a href="https://tonapplicationstereo.com" style="text-decoration: none; color: white; display: inline-flex; align-items: center;">
+    <img src="https://github.com/1-mathis/1-mathis/blob/main/logo%20st%C3%A9r%C3%A9o.%20pour%20github.png?raw=true" alt="Stéréo" width="30" height="30" style="margin-right: 8px;">
+    <span style="font-weight: bold; font-size: 16px;">Stéréo</span>
   </a>
-
-  <pre style="font-family: monospace; font-size: 12px; line-height: 1;">
-  
-             __                                             
-            |  \                                            
-  _______  _| $$_     ______    ______    ______    ______  
- /       \|   $$ \   /      \  /      \  /      \  /      \ 
-|  $$$$$$$ \$$$$$$  |  $$$$$$\|  $$$$$$\|  $$$$$$\|  $$$$$$\
- \$$    \   | $$ __ | $$    $$| $$   \$$| $$    $$| $$  | $$
- _\$$$$$$\  | $$|  \| $$$$$$$$| $$      | $$$$$$$$| $$__/ $$
-|       $$   \$$  $$ \$$     \| $$       \$$     \ \$$    $$
- \$$$$$$$     \$$$$   \$$$$$$$ \$$        \$$$$$$$  \$$$$$$ 
-                                                            
-                                                            
-                                                            
-
-</pre>
 
 </div>
 
