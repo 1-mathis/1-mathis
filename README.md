@@ -24,8 +24,8 @@ Développeur Full-Stack passionné, toujours prêt à relever de nouveaux défis
 ## 📊 Statistiques GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=1-mathis&show_icons=true&theme=radical" alt="GitHub Stats" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1-mathis&layout=compact&theme=radical" alt="Top Langages" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=1-mathis&show_icons=true&theme=blueberry" alt="GitHub Stats" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1-mathis&layout=compact&theme=blueberry" alt="Top Langages" height="180em" />
 </div>
 
 ---
@@ -46,13 +46,11 @@ Développeur Full-Stack passionné, toujours prêt à relever de nouveaux défis
 - **Description** : Une application qui permet [brève explication du projet]
 - **Technologies** : Vue.js, Vuex, Vuetify, API REST
 - **Lien** : [Lien vers le dépôt GitHub]
-- ![Demo](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif) <!-- Ajoute un lien vers un GIF ou une image de démo si possible -->
 
 ### 🛠️ **[Nom du Projet 2]**
 - **Description** : Un projet en Symfony avec une mise en œuvre de CI/CD automatisée
 - **Technologies** : Symfony, Docker, GitLab CI/CD
 - **Lien** : [Lien vers le dépôt GitHub]
-- ![Demo](https://media.giphy.com/media/26tPplGWjN0xLybiU/giphy.gif) <!-- Autre GIF de démo -->
 
 ---
 
@@ -66,8 +64,8 @@ Développeur Full-Stack passionné, toujours prêt à relever de nouveaux défis
 ## 🔗 Me Suivre & Me Contacter
 
 <div align="center">
-  <a href="mailto:TonEmail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://www.linkedin.com/in/tonprofil/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:contactmathis244@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/mathis ferreira/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://twitter.com/tonpseudo"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
   <a href="https://tonportfolio.com"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"></a>
 </div>
@@ -77,5 +75,3 @@ Développeur Full-Stack passionné, toujours prêt à relever de nouveaux défis
 ### 📬 Merci d'avoir pris le temps de visiter mon profil !
 
 > **N'hésite pas** à explorer mes projets ou à me contacter pour toute collaboration. Je suis toujours ouvert aux nouvelles idées et aux discussions techniques. 🚀
-
-![Thanks GIF](https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif) <!-- GIF de remerciement sympa -->
