@@ -20,10 +20,6 @@ Développeur Full-Stack passionné, toujours prêt à relever de nouveaux défis
 
 ![Langages et Outils](https://skillicons.dev/icons?i=vue,react,php,symfony,html,css,js,git,github,gitlab)
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?logo=vue.js&logoColor=4FC08D&style=flat)
-
-
 ---
 
 ## 📊 Statistiques GitHub
