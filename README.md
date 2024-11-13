@@ -63,35 +63,36 @@ Développeur Full-Stack passionné, toujours prêt à relever de nouveaux défis
 
 ## 🔗 Me Suivre & Me Contacter
 
-<div style="display: flex; justify-content: space-between; align-items: center; max-width: 800px; margin: 0 auto;">
+<div style="display: flex; align-items: center; gap: 50px;">
 
   <!-- Lien pour envoyer un email directement avec ton adresse -->
-  <a href="mailto:contactmathis244@gmail.com" style="text-decoration: none;">
+  <a href="mailto:contactmathis244@gmail.com" style="text-decoration: none; color: inherit;">
     <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
   
   <!-- Lien vers ton profil LinkedIn -->
-  <a href="https://www.linkedin.com/in/mathis-ferreira/" style="text-decoration: none;">
+  <a href="https://www.linkedin.com/in/mathis-ferreira/" style="text-decoration: none; color: inherit;">
     <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   
   <!-- Lien vers ton profil Instagram -->
-  <a href="https://www.instagram.com/mths.ferr/" style="text-decoration: none;">
+  <a href="https://www.instagram.com/mths.ferr/" style="text-decoration: none; color: inherit;">
     <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
   
   <!-- Lien vers ton portfolio -->
-  <a href="https://tonportfolio.com" style="text-decoration: none;">
+  <a href="https://tonportfolio.com" style="text-decoration: none; color: inherit;">
     <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
   </a>
   
-  <!-- Lien vers ton application Stéréo avec l'icône -->
-  <a href="https://tonapplicationstereo.com" style="text-decoration: none; display: flex; align-items: center;">
+  <!-- Lien vers ton application Stéréo -->
+  <a href="https://tonapplicationstereo.com" style="text-decoration: none; color: inherit; display: flex; align-items: center;">
     <img src="https://raw.githubusercontent.com/TON_NOM_UTILISATEUR/NOM_DU_DEPOT/main/chemin/vers/ton-image.png" alt="Stéréo" width="40" height="40" style="margin-right: 10px;">
     <span style="color: white; font-weight: bold; font-size: 16px;">Stéréo</span>
   </a>
 
 </div>
+
 
 
 
