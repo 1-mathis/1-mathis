@@ -93,9 +93,6 @@ Développeur Full-Stack passionné, toujours prêt à relever de nouveaux défis
 
 </div>
 
-
-
-
 ---
 
 ### 📬 Merci d'avoir pris le temps de visiter mon profil !
