@@ -63,47 +63,35 @@ Développeur Full-Stack passionné, toujours prêt à relever de nouveaux défis
 
 ## 🔗 Me Suivre & Me Contacter
 
-<div style="display: flex; flex-direction: row; align-items: center; justify-content: space-between; gap: 10px; width: 100%; color: white;">
+<div style="display: flex; align-items: center; gap: 20px;">
 
   <!-- Lien pour envoyer un email directement avec ton adresse -->
-  <a href="mailto:contactmathis244@gmail.com" style="text-decoration: none; color: inherit; display: flex; align-items: center;">
+  <a href="mailto:contactmathis244@gmail.com" style="text-decoration: none; color: inherit;">
     <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 
-  <!-- Point de séparation -->
-  <span style="font-size: 20px; font-weight: bold;">•</span>
-
   <!-- Lien vers ton profil LinkedIn -->
-  <a href="https://www.linkedin.com/in/mathis-ferreira/" style="text-decoration: none; color: inherit; display: flex; align-items: center;">
+  <a href="https://www.linkedin.com/in/mathis-ferreira/" style="text-decoration: none; color: inherit;">
     <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 
-  <!-- Point de séparation -->
-  <span style="font-size: 20px; font-weight: bold;">•</span>
-
   <!-- Lien vers ton profil Instagram -->
-  <a href="https://www.instagram.com/mths.ferr/" style="text-decoration: none; color: inherit; display: flex; align-items: center;">
+  <a href="https://www.instagram.com/mths.ferr/" style="text-decoration: none; color: inherit;">
     <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
 
-  <!-- Point de séparation -->
-  <span style="font-size: 20px; font-weight: bold;">•</span>
-
   <!-- Lien vers ton portfolio -->
-  <a href="https://tonportfolio.com" style="text-decoration: none; color: inherit; display: flex; align-items: center;">
+  <a href="https://tonportfolio.com" style="text-decoration: none; color: inherit;">
     <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
   </a>
 
-  <!-- Point de séparation -->
-  <span style="font-size: 20px; font-weight: bold;">•</span>
-
-  <!-- Badge personnalisé avec ton image -->
-  <a href="https://tonapplicationstereo.com" style="text-decoration: none; display: flex; align-items: center; color: white;">
-    <img src="https://github.com/1-mathis/1-mathis/blob/main/logo%20st%C3%A9r%C3%A9o.%20pour%20github.png?raw=true" alt="Stéréo" width="30" height="30" style="margin-right: 8px;">
-    <span style="color: white; font-weight: bold; font-size: 16px; text-decoration: none;">Stéréo</span>
+  <!-- Badge simplifié pour Stéréo avec une icône de casque -->
+  <a href="https://tonapplicationstereo.com" style="text-decoration: none; color: inherit;">
+    <img src="https://img.shields.io/badge/Stéréo-0D1117?style=for-the-badge&logo=headphones&logoColor=white" alt="Stéréo">
   </a>
 
 </div>
+
 ---
 
 ### 📬 Merci d'avoir pris le temps de visiter mon profil !
