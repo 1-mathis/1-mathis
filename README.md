@@ -36,7 +36,7 @@ Développeur Full-Stack passionné, toujours prêt à relever de nouveaux défis
 
 - 🔍 **Objectifs actuels** : Approfondir mes compétences en développement backend et DevOps
 - 🎨 **Centres d'intérêt** : Design graphique, intelligence artificielle, et contributions open-source
-- 📚 **Loisirs** : Lecture, gaming, et boxe pour garder un bon équilibre
+- 📚 **Loisirs** : Lecture, gaming pour garder un bon équilibre
 
 ---
 
