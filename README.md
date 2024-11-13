@@ -2,8 +2,8 @@
 
 Développeur Full-Stack passionné, toujours prêt à relever de nouveaux défis. Mon expertise s'étend de la conception d'applications à l'optimisation des systèmes avec une attention particulière aux détails.
 
-![GitHub followers](https://img.shields.io/github/followers/[TonNomUtilisateur]?label=Suiveurs&style=social)
-![GitHub stars](https://img.shields.io/github/stars/[TonNomUtilisateur]?label=Étoiles&style=social)
+![GitHub followers](https://img.shields.io/github/followers/1-mathis?label=Suiveurs&style=social)
+![GitHub stars](https://img.shields.io/github/stars/1-mathis?label=Étoiles&style=social)
 
 ---
 
@@ -24,8 +24,8 @@ Développeur Full-Stack passionné, toujours prêt à relever de nouveaux défis
 
 ## 📊 Statistiques GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[TonNomUtilisateur]&show_icons=true&theme=radical)
-![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=[TonNomUtilisateur]&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=1-mathis&show_icons=true&theme=radical)
+![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=1-mathis&layout=compact&theme=radical)
 
 ---
 
