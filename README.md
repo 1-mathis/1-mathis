@@ -28,21 +28,6 @@ Développeur Full-Stack passionné, toujours prêt à relever de nouveaux défis
 
 ## 📊 Statistiques GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=1-mathis&show_icons=true&theme=radical)
-![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=1-mathis&layout=compact&theme=radical)
-
-![GitHub followers](https://img.shields.io/github/followers/?label=Suiveurs&style=social)
-![GitHub stars](https://img.shields.io/github/stars/1-mathis?label=Étoiles&style=social)
-
-![GitHub followers](https://img.shields.io/github/followers/1-mathis?label=Suiveurs&style=flat)
-![GitHub stars](https://img.shields.io/github/stars/1-mathis?label=Étoiles&style=flat)
-
-![GitHub followers](https://img.shields.io/github/followers/1-mathis?label=Suiveurs&color=blue&style=for-the-badge)
-![GitHub stars](https://img.shields.io/github/stars/1-mathis?label=Étoiles&color=yellow&style=for-the-badge)
-
-![GitHub followers](https://img.shields.io/github/followers/1-mathis?label=Suiveurs&logo=github&style=for-the-badge)
-![GitHub stars](https://img.shields.io/github/stars/1-mathis?label=Étoiles&logo=github&style=for-the-badge)
-
 ![GitHub followers](https://img.shields.io/github/followers/1-mathis?label=Suiveurs&logo=github&color=blue&style=for-the-badge)
 ![GitHub stars](https://img.shields.io/github/stars/1-mathis?label=Étoiles&logo=github&color=yellow&style=for-the-badge)
 
