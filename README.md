@@ -1,4 +1,4 @@
-# Bonjour, je suis [Ton Nom] 👋
+# Hey, moi c'est Mathis ! 👋
 
 Développeur Full-Stack passionné, toujours prêt à relever de nouveaux défis. Mon expertise s'étend de la conception d'applications à l'optimisation des systèmes avec une attention particulière aux détails.
 
@@ -20,12 +20,19 @@ Développeur Full-Stack passionné, toujours prêt à relever de nouveaux défis
 
 ![Langages et Outils](https://skillicons.dev/icons?i=vue,react,php,symfony,html,css,js,git,github,gitlab)
 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?logo=vue.js&logoColor=4FC08D&style=flat)
+
+
 ---
 
 ## 📊 Statistiques GitHub
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=1-mathis&show_icons=true&theme=radical)
 ![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=1-mathis&layout=compact&theme=radical)
+![GitHub followers](https://img.shields.io/github/followers/1-mathis?label=Suiveurs&style=social)
+![GitHub stars](https://img.shields.io/github/stars/1-mathis?label=Étoiles&style=social)
+
 
 ---
 
