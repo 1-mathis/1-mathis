@@ -63,7 +63,7 @@ Développeur Full-Stack passionné, toujours prêt à relever de nouveaux défis
 
 ## 🔗 Me Suivre & Me Contacter
 
-<div align="center" style="display: flex; justify-content: center; gap: 20px;">
+<div style="display: flex; justify-content: space-between; align-items: center; max-width: 800px; margin: 0 auto;">
 
   <!-- Lien pour envoyer un email directement avec ton adresse -->
   <a href="mailto:contactmathis244@gmail.com" style="text-decoration: none;">
@@ -87,11 +87,12 @@ Développeur Full-Stack passionné, toujours prêt à relever de nouveaux défis
   
   <!-- Lien vers ton application Stéréo avec l'icône -->
   <a href="https://tonapplicationstereo.com" style="text-decoration: none; display: flex; align-items: center;">
-    <img src="/path/to/your/uploaded/icon.png" alt="Stéréo" width="40" height="40" style="margin-right: 10px;">
+    <img src="https://raw.githubusercontent.com/TON_NOM_UTILISATEUR/NOM_DU_DEPOT/main/chemin/vers/ton-image.png" alt="Stéréo" width="40" height="40" style="margin-right: 10px;">
     <span style="color: white; font-weight: bold; font-size: 16px;">Stéréo</span>
   </a>
 
 </div>
+
 
 
 ---
