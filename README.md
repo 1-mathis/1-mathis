@@ -90,6 +90,12 @@ Développeur Full-Stack passionné, toujours prêt à relever de nouveaux défis
     <img src="https://img.shields.io/badge/Stéréo-0D1117?style=for-the-badge&logo=headphones&logoColor=white" alt="Stéréo">
   </a>
 
+  <!-- Badge personnalisé pour Stéréo avec l'icône de casque de Figma -->
+  <a href="https://tonapplicationstereo.com" style="text-decoration: none; display: inline-flex; align-items: center;">
+    <img src="https://github.com/1-mathis/1-mathis/blob/main/Headphones_fill_light@3x.png?raw=true" alt="Stéréo" width="30" height="30" style="margin-right: 8px;">
+    <span style="font-weight: bold; font-size: 16px; color: white; text-decoration: none;">Stéréo</span>
+  </a>
+
 </div>
 
 ---
