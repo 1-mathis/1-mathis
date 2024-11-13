@@ -87,7 +87,7 @@ Développeur Full-Stack passionné, toujours prêt à relever de nouveaux défis
   
 <!-- Lien vers ton application Stéréo avec l'icône hébergée -->
 <a href="https://tonapplicationstereo.com" style="text-decoration: none; display: flex; align-items: center;">
-  <img src="https://raw.githubusercontent.com/1-mathis/1-mathis/main/images/stereo-icon.png" alt="Stéréo" width="40" height="40" style="margin-right: 10px;">
+  <img src="https://github.com/1-mathis/1-mathis/blob/main/logo%20st%C3%A9r%C3%A9o.%20pour%20github.png?raw=true" alt="Stéréo" width="40" height="40" style="margin-right: 10px;">
   <span style="color: white; font-weight: bold; font-size: 16px;">Stéréo</span>
 </a>
 
