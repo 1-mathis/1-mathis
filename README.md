@@ -63,35 +63,36 @@ Développeur Full-Stack passionné, toujours prêt à relever de nouveaux défis
 
 ## 🔗 Me Suivre & Me Contacter
 
-<div align="center" style="display: flex; justify-content: center; gap: 15px;">
+<div align="center" style="display: flex; justify-content: center; gap: 20px;">
 
   <!-- Lien pour envoyer un email directement avec ton adresse -->
   <a href="mailto:contactmathis244@gmail.com" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Email-Black?style=flat&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
   
   <!-- Lien vers ton profil LinkedIn -->
   <a href="https://www.linkedin.com/in/mathis-ferreira/" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/LinkedIn-Black?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   
   <!-- Lien vers ton profil Instagram -->
   <a href="https://www.instagram.com/mths.ferr/" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Instagram-Black?style=flat&logo=instagram&logoColor=white" alt="Instagram">
+    <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
   
   <!-- Lien vers ton portfolio -->
   <a href="https://tonportfolio.com" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Portfolio-Black?style=flat&logo=google-chrome&logoColor=white" alt="Portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
   </a>
   
-  <!-- Lien vers ton application Stéréo avec l'icône fournie -->
-  <a href="https://tonapplicationstereo.com" style="text-decoration: none;">
-    <img src="C:\Users\Moi\OneDrive\Images\Screenshots\logo stéréo..png" alt="Stéréo" width="30" height="30" style="vertical-align: middle; margin-right: 8px;">
-    <span style="color: white; font-weight: bold;">Stéréo</span>
+  <!-- Lien vers ton application Stéréo avec l'icône -->
+  <a href="https://tonapplicationstereo.com" style="text-decoration: none; display: flex; align-items: center;">
+    <img src="/path/to/your/uploaded/icon.png" alt="Stéréo" width="40" height="40" style="margin-right: 10px;">
+    <span style="color: white; font-weight: bold; font-size: 16px;">Stéréo</span>
   </a>
 
 </div>
+
 
 ---
 
