@@ -1,45 +1,64 @@
-# Bonjour, je suis Mathis 👋
+# Bonjour, je suis [Ton Nom] 👋
 
-Je suis un développeur full-stack passionné et concepteur d'applications avec une expertise en Symfony, Vue.js, et CI/CD. J'aime transformer des idées en solutions fonctionnelles et performantes.
+Développeur Full-Stack passionné, toujours prêt à relever de nouveaux défis. Mon expertise s'étend de la conception d'applications à l'optimisation des systèmes avec une attention particulière aux détails.
+
+![GitHub followers](https://img.shields.io/github/followers/[TonNomUtilisateur]?label=Suiveurs&style=social)
+![GitHub stars](https://img.shields.io/github/stars/[TonNomUtilisateur]?label=Étoiles&style=social)
 
 ---
 
-## 🌟 Compétences
+## 🌟 À propos de moi
 
-- **Frontend** : Vue.js, Vuetify, HTML5, CSS3, JavaScript (ES6+)
-- **Backend** : Symfony, PHP, API REST, Gestion de base de données
-- **DevOps** : CI/CD (GitLab CI/CD), Docker, SSH, Mise en production de projets
-- **Tests** : PHPUnit, GrumPHP, PHPStan
+- 🎓 **Formation** : [Ton parcours académique ou certifications]
+- 💻 **Expérience** : [Ton expérience en développement, projets ou entreprises]
+- 🌱 **En apprentissage** : [Nouvelle technologie ou sujet que tu apprends]
+- ☕ **Fun fact** : Je suis un amateur de café inconditionnel !
 
-## 🔧 Outils
+---
 
-- **Éditeur de code** : Visual Studio Code
-- **Systèmes de gestion de version** : Git, GitHub, GitLab
-- **Systèmes d'exploitation** : Windows 11, Linux
-- **Serveurs** : Apache, Nginx
+## 🔧 Langages & Outils
+
+![Langages et Outils](https://skillicons.dev/icons?i=vue,react,php,symfony,html,css,js,git,github,gitlab)
+
+---
+
+## 📊 Statistiques GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[TonNomUtilisateur]&show_icons=true&theme=radical)
+![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=[TonNomUtilisateur]&layout=compact&theme=radical)
 
 ---
 
 ## 🚀 Projets Récents
 
-1. **Application musicale avec un aspect réseau social**  
-   - **Technologies** : Vue.js, Symfony, Docker, GitLab CI/CD
-   - **Fonctionnalités** : Publication de musique, services de design, messagerie instantanée, et plus.
+### **[Nom du Projet 1]**
+- **Description** : [Courte description du projet]
+- **Technologies** : [Liste des technologies utilisées]
+- **Lien** : [Lien vers le dépôt GitHub]
 
-2. **Application de gestion de tâches avec Vue.js**  
-   - **Technologies** : Vue.js, Vuetify, Symfony
-   - **Fonctionnalités** : Gestion des listes, notifications dynamiques, sauvegarde automatique.
+### **[Nom du Projet 2]**
+- **Description** : [Courte description du projet]
+- **Technologies** : [Liste des technologies utilisées]
+- **Lien** : [Lien vers le dépôt GitHub]
+
+### **Contributions Notables**
+- [Projet où tu as contribué] : [Description brève]
 
 ---
 
-## 📚 Actuellement en apprentissage
+## 🎯 Objectifs & Centres d'Intérêt
 
-- **Optimisation des performances** : Amélioration des performances de projets Symfony et Vue.js.
-- **Gestion CI/CD** : Approfondissement de l'automatisation des tests et de la mise en production.
+- 🔍 **Objectifs actuels** : [Nouvelle compétence que tu souhaites maîtriser]
+- 🎨 **Centres d'intérêt** : [Design graphique, IA, contributions open-source, etc.]
+- 📚 **Loisirs** : [Passe-temps comme la lecture, les jeux, le sport]
 
-## 📫 Me contacter
+---
 
-- **Email** : contactmathis244@gmail.com
-- **LinkedIn** : Mathis Ferreira
+## 📬 Reste en Contact
 
-Merci d'avoir visité mon profil ! 🌟
+- **Email** : [Ton email]
+- **LinkedIn** : [Ton profil LinkedIn]
+- **Portfolio** : [Lien vers ton site ou portfolio]
+- **Twitter** : [Ton pseudo Twitter]
+
+Merci d'avoir pris le temps de visiter mon profil ! N'hésite pas à explorer mes projets ou à me contacter. 🚀
