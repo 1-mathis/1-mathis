@@ -24,7 +24,6 @@ Développeur Full-Stack passionné, toujours prêt à relever de nouveaux défis
 ![GitHub followers](https://img.shields.io/github/followers/1-mathis?label=Suiveurs&logo=github&color=blue&style=for-the-badge)
 ![GitHub stars](https://img.shields.io/github/stars/1-mathis?label=Étoiles&logo=github&color=yellow&style=for-the-badge)
 
-
 ---
 
 ## 🚀 Projets Récents
