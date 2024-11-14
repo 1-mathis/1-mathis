@@ -28,7 +28,7 @@ Débutant dans le monde du développement, je suis toujours prêt à relever de 
 ## 🚀 Compétences Techniques
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=vue,vuetify,react,bootstrap,php,symfony,html,css,js,git,github,gitlab,docker,linux" alt="Langages et Outils" />
+  <img src="https://skillicons.dev/icons?i=vue,vuetify,react,bootstrap,nodejs,symfony,html,css,js,php,docker,github,gitlab,git,powershell,bash,mysql,nextjs,figma," alt="Langages et Outils" />
 </div>
 
 ---
