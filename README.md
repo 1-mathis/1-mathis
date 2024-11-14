@@ -8,10 +8,10 @@ Débutant dans le monde du développement, je suis toujours prêt à relever de 
 
 🎓 Étudiant | 💻 Développeur | 🎨 Créateur
 
-- 🎓 **Formation** : Concepteur Développeur d'Application, en formation chez <a href="https://www.simplon.co/">Simplon.co</a>
-- 💻 **Expérience** : Stage de 5 mois dans l'entreprise d'une application web de gestion de projet pour entreprises chez <a href="https://yookkan.com/">Yookkan</a>
+- 🎓 **Formation** : Concepteur Développeur d'Application, en formation chez <a href="https://www.simplon.co/"  style="text-decoration: none;">Simplon.co</a>
+- 💻 **Expérience** : Stage de 5 mois dans l'entreprise d'une application web de gestion de projet pour entreprises chez <a href="https://yookkan.com/" style="text-decoration: none;">Yookkan</a>
 - 🌱 **En apprentissage** : Actuellement plongé dans le développement d'applications web
-- ☕ **Fun fact** : in progress...
+- ☕ **Fun fact** : Je fais la collection des erreurs dans tous les langages que j'appends
 
 ---
 
@@ -53,7 +53,7 @@ Débutant dans le monde du développement, je suis toujours prêt à relever de 
 
 ## 📅 Ce sur quoi je travaille actuellement
 - **stéréo.** : "Stéréo est une application innovante qui fusionne l'univers de la musique avec une touche de réseau social. Elle permet aux utilisateurs de partager, découvrir, et se connecter autour de services musicaux divers, allant de la production audio aux prestations de chant, en passant par le design graphique lié à l'industrie musicale. L'interface intuitive et moderne offre une expérience immersive, où chaque passionné de musique peut trouver son espace pour exprimer sa créativité."
- <p>Lien de l'application : <a href="https://www.google.fr/" target="_blank" style="text-decoration: none; color: inherit;">stéréo.</a></p> 
+ <p>Lien de l'application : <a href="https://stéréo.com" target="_blank" style="text-decoration: none; color: inherit;">stéréo.</a></p> 
 
 
 ## 💻 Projets Récents
