@@ -79,7 +79,6 @@ Débutant dans le monde du développement, je suis toujours prêt à relever de 
 
 ---
 
-
 ## 🔗 Me Suivre & Me Contacter
 
 <div style="display: flex; flex-direction: row; align-items: center;">
