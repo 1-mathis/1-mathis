@@ -91,7 +91,7 @@ Débutant dans le monde du développement, je suis toujours prêt à relever de 
   </div>
 
   <div>
-    <a href="https://www.linkedin.com/in/mathis-ferreira/" style="text-decoration: none; color: inherit;">
+    <a href="https://www.linkedin.com/in/mathis-ferreira-886090287/" style="text-decoration: none; color: inherit;">
       <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
   </div>
@@ -103,14 +103,14 @@ Débutant dans le monde du développement, je suis toujours prêt à relever de 
   </div>
 
   <div>
-    <a href="https://tonportfolio.com" style="text-decoration: none; color: inherit;">
+    <a href="https://mathis_Ferreira.com" style="text-decoration: none; color: inherit;">
       <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
     </a>
   </div>
 
   <div style="display: flex; align-items: center; gap: 8px;">
     <img src="https://github.com/1-mathis/1-mathis/blob/main/Headphones_fill_light@3x.png?raw=true" alt="stéréo" width="30" height="30">
-    <a href="https://tonapplicationstereo.com" style="text-decoration: none; color: inherit;">
+    <a href="https://stéréo.com" style="text-decoration: none; color: inherit;">
       <img src="https://img.shields.io/badge/Stéréo-0D1117?style=for-the-badge&logo=headphones&logoColor=white" alt="Stéréo">
     </a>
   </div>
