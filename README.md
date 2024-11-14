@@ -1,22 +1,34 @@
 # Hey, moi c'est Mathis ! 👋
 
-Développeur Full-Stack passionné, toujours prêt à relever de nouveaux défis. Mon expertise s'étend de la conception d'applications à l'optimisation des systèmes avec une attention particulière aux détails.
+Débutant dans le monde du développement, je suis toujours prêt à relever de nouveaux défis.
 
 ---
 
 ## 🌟 À propos de moi
 
-- 🎓 **Formation** : Développeur web diplômé, spécialisé en [ta spécialité].
-- 💻 **Expérience** : Développement de projets complets en Vue.js, Symfony, et intégration de CI/CD.
-- 🌱 **En apprentissage** : Actuellement plongé dans [technologie ou sujet d'intérêt].
-- ☕ **Fun fact** : Je suis un amateur de café inconditionnel, qui carbure à la caféine !
+🎓 Étudiant | 💻 Développeur | 🎨 Créateur
+
+- 🎓 **Formation** : Concepteur Développeur d'Application, en formation chez <a href="https://www.simplon.co/">Simplon.co</a>
+- 💻 **Expérience** : Stage de 5 mois dans l'entreprise d'une application web de gestion de projet pour entreprises chez <a href="https://yookkan.com/">Yookkan</a>
+- 🌱 **En apprentissage** : Actuellement plongé dans le développement d'applications web
+- ☕ **Fun fact** : in progress...
 
 ---
+
+## 📈 Infos GitHub
+
+<div style="display: flex; flex-direction: row; align-items: center; gap: 100px;">
+
+![GitHub followers](https://img.shields.io/github/followers/1-mathis?label=Followers&style=social)
+![GitHub stars](https://img.shields.io/github/stars/1-mathis?label=Stars&style=social)
+
+</div>
+
 
 ## 🚀 Compétences Techniques
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=vue,react,php,symfony,html,css,js,git,github,gitlab,docker,linux" alt="Langages et Outils" />
+  <img src="https://skillicons.dev/icons?i=vue,vuetify,react,bootstrap,php,symfony,html,css,js,git,github,gitlab,docker,linux" alt="Langages et Outils" />
 </div>
 
 ---
@@ -32,34 +44,41 @@ Développeur Full-Stack passionné, toujours prêt à relever de nouveaux défis
 
 ## 🌱 Objectifs de Développement
 
-> 💡 **Citation favorite** : "La simplicité est la sophistication suprême." – Léonard de Vinci
+> 💡 **Citation favorite** : "La douleur est temporaire, la fierté est éternelle." – David Goggins
 
-- 🔍 **Objectifs actuels** : Approfondir mes compétences en développement backend et DevOps.
-- 🎨 **Centres d'intérêt** : Design graphique, intelligence artificielle, et contributions open-source.
-- 📚 **Loisirs** : Lecture, gaming pour garder un bon équilibre.
-
+- 🔍 **Objectifs actuels** : Approfondir mes compétences en développement backend, frontend et DevOps.
+- 🎨 **Centres d'intérêt** : Développement, sport, lecture, voir du monde et profiter du moment
+- 📚 **Loisirs** : Lecture, gaming, sport
 ---
+
+## 📅 Ce sur quoi je travaille actuellement
+- **stéréo.** : "Stéréo est une application innovante qui fusionne l'univers de la musique avec une touche de réseau social. Elle permet aux utilisateurs de partager, découvrir, et se connecter autour de services musicaux divers, allant de la production audio aux prestations de chant, en passant par le design graphique lié à l'industrie musicale. L'interface intuitive et moderne offre une expérience immersive, où chaque passionné de musique peut trouver son espace pour exprimer sa créativité."
+
 
 ## 💻 Projets Récents
 
-### 🌐 **[Nom du Projet 1]**
-- **Description** : Une application qui permet [brève explication du projet].
-- **Technologies** : Vue.js, Vuex, Vuetify, API REST.
-- **Lien** : [Lien vers le dépôt GitHub].
+### 🔨 **Tap'Taupe**
 
-### 🛠️ **[Nom du Projet 2]**
-- **Description** : Un projet en Symfony avec une mise en œuvre de CI/CD automatisée.
-- **Technologies** : Symfony, Docker, GitLab CI/CD.
-- **Lien** : [Lien vers le dépôt GitHub].
+- **Description** : Tap Taupe est un jeu où il y a 9 trous (3x3), dans lesquels les taupes apparaissent aléatoirement (et pour une durée aléatoire également). Le principe du jeu est assez simple : dès que le joueur tape sur une taupe, la taupe se cache et le joueur gagne 1 point. 
+- **Technologies** : html, css ,javascript
+- **Lien** : <a href="https://github.com/1-mathis/Tap-Taupe" target="_blank" style="text-decoration: none; color: inherit;">Tap'Taupe</a>
+
+### 🛠️ **RestPin**
+- **Description** : RestPin est un projet web inspiré de Pinterest, conçu pour offrir aux développeurs juniors un espace d'échange et de partage de ressources. Développé en utilisant le framework Symfony, l'application permet aux utilisateurs de s'inscrire, se connecter, et créer des "pins" pour partager des idées et des astuces
+- **Technologies** : symfony, php, twig, css, javascript
+- **Lien** : <a href="https://github.com/1-mathis/brief-9-RestPin." target="_blank" style="text-decoration: none; color: inherit;">RestPin</a>
+
+---
 
 ---
 
 ## 🤝 Contributions Notables
 
-- **[Projet où tu as contribué]** : Développeur sur [nom du projet], amélioration des performances et optimisation du code.
-- **Open Source** : Participe régulièrement à des projets open source pour aider la communauté.
+- **RestPin** : Développeur principal, création des fonctionnalités d'authentification et de gestion des profils, mise en place d'une base solide pour la publication de pins, et optimisation des performances pour assurer une expérience fluide.
+- **Open Source** : Participe régulièrement à des projets open-source, notamment en optimisant le code et en contribuant à la documentation pour aider la communauté de développeurs.
 
 ---
+
 
 ## 🔗 Me Suivre & Me Contacter
 
