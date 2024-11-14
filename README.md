@@ -75,7 +75,7 @@ Débutant dans le monde du développement, je suis toujours prêt à relever de 
 ## 🤝 Contributions Notables
 
 - **RestPin** : Développeur principal, création des fonctionnalités d'authentification et de gestion des profils, mise en place d'une base solide pour la publication de pins, et optimisation des performances pour assurer une expérience fluide.
-- **Open Source** : Participe régulièrement à des projets open-source, notamment en optimisant le code et en contribuant à la documentation pour aider la communauté de développeurs.
+- **Simplification de Code** : J'ai optimisé et simplifié plusieurs fonctionnalités dans des projets personnels et open source, rendant le code plus maintenable et performant.
 
 ---
 
