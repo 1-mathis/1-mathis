@@ -53,6 +53,7 @@ Débutant dans le monde du développement, je suis toujours prêt à relever de 
 
 ## 📅 Ce sur quoi je travaille actuellement
 - **stéréo.** : "Stéréo est une application innovante qui fusionne l'univers de la musique avec une touche de réseau social. Elle permet aux utilisateurs de partager, découvrir, et se connecter autour de services musicaux divers, allant de la production audio aux prestations de chant, en passant par le design graphique lié à l'industrie musicale. L'interface intuitive et moderne offre une expérience immersive, où chaque passionné de musique peut trouver son espace pour exprimer sa créativité."
+ <p>Lien de l'application : <a href="https://www.google.fr/" target="_blank" style="text-decoration: none; color: inherit;">stéréo.</a></p> 
 
 
 ## 💻 Projets Récents
@@ -83,35 +84,30 @@ Débutant dans le monde du développement, je suis toujours prêt à relever de 
 
 <div style="display: flex; flex-direction: row; align-items: center;">
 
-  <!-- Email -->
   <div>
     <a href="mailto:contactmathis244@gmail.com" style="text-decoration: none; color: inherit;">
       <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
     </a>
   </div>
 
-  <!-- LinkedIn -->
   <div>
     <a href="https://www.linkedin.com/in/mathis-ferreira/" style="text-decoration: none; color: inherit;">
       <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
   </div>
 
-  <!-- Instagram -->
   <div>
     <a href="https://www.instagram.com/mths.ferr/" style="text-decoration: none; color: inherit;">
       <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
     </a>
   </div>
 
-  <!-- Portfolio -->
   <div>
     <a href="https://tonportfolio.com" style="text-decoration: none; color: inherit;">
       <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
     </a>
   </div>
 
-  <!-- Stéréo avec icône de casque -->
   <div style="display: flex; align-items: center; gap: 8px;">
     <img src="https://github.com/1-mathis/1-mathis/blob/main/Headphones_fill_light@3x.png?raw=true" alt="stéréo" width="30" height="30">
     <a href="https://tonapplicationstereo.com" style="text-decoration: none; color: inherit;">
