@@ -1,6 +1,7 @@
 # Hey, moi c'est Mathis ! 👋
 
 Débutant dans le monde du développement, je suis toujours prêt à relever de nouveaux défis.
+“Le skill, c’est une graine. La discipline, c’est l’eau. Le mental, c’est le soleil.”
 
 ---
 
