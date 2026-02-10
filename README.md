@@ -1,4 +1,4 @@
-<style>
+<!-- <style>
   html,
   body,
   .markdown-body {
@@ -891,4 +891,4 @@
 			</div>
 		</div>
 	</div>
-</footer>
+</footer> -->
