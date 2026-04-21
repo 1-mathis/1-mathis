@@ -1,0 +1,87 @@
+name: Toggle Trophy Section
+
+on:
+  schedule:
+    - cron: '0 6 * * 1'  # Tous les lundis à 6h
+  workflow_dispatch:
+
+jobs:
+  toggle-trophies:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Vérifier si des trophées existent
+        id: check
+        run: |
+          # Appel à l'API GitHub pour récupérer les stats du profil
+          RESPONSE=$(curl -s \
+            -H "Authorization: Bearer ${{ secrets.GITHUB_TOKEN }}" \
+            "https://api.github.com/users/1-mathis")
+
+          REPOS=$(echo "$RESPONSE" | python3 -c "import sys,json; print(json.load(sys.stdin).get('public_repos', 0))")
+          COMMITS=$(curl -s \
+            -H "Authorization: Bearer ${{ secrets.GITHUB_TOKEN }}" \
+            "https://api.github.com/search/commits?q=author:1-mathis" \
+            | python3 -c "import sys,json; print(json.load(sys.stdin).get('total_count', 0))" 2>/dev/null || echo "0")
+
+          echo "repos=$REPOS" >> $GITHUB_OUTPUT
+          echo "commits=$COMMITS" >> $GITHUB_OUTPUT
+
+          if [ "$REPOS" -gt 0 ] || [ "$COMMITS" -gt 0 ]; then
+            echo "has_trophies=true" >> $GITHUB_OUTPUT
+          else
+            echo "has_trophies=false" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Afficher la section trophées
+        if: steps.check.outputs.has_trophies == 'true'
+        run: |
+          # Décommente le bloc si commenté
+          python3 - <<'EOF'
+          import re
+
+          with open("README.md", "r", encoding="utf-8") as f:
+              content = f.read()
+
+          # Supprime les wrappers de masquage si présents
+          content = re.sub(
+              r'<!--TROPHY_HIDDEN\n(.*?)TROPHY_HIDDEN-->',
+              r'\1',
+              content,
+              flags=re.DOTALL
+          )
+
+          with open("README.md", "w", encoding="utf-8") as f:
+              f.write(content)
+          EOF
+
+      - name: Masquer la section trophées
+        if: steps.check.outputs.has_trophies == 'false'
+        run: |
+          python3 - <<'EOF'
+          import re
+
+          with open("README.md", "r", encoding="utf-8") as f:
+              content = f.read()
+
+          # Entoure le bloc de commentaires HTML pour le masquer
+          content = re.sub(
+              r'(<!-- TROPHY_START -->.*?<!-- TROPHY_END -->)',
+              r'<!--TROPHY_HIDDEN\n\1\nTROPHY_HIDDEN-->',
+              content,
+              flags=re.DOTALL
+          )
+
+          with open("README.md", "w", encoding="utf-8") as f:
+              f.write(content)
+          EOF
+
+      - name: Commit les changements
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git diff --quiet && git diff --staged --quiet || (git add README.md && git commit -m "chore: toggle trophy section [skip ci]" && git push)
